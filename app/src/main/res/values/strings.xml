@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ahmad Atta</string>
+    <string name="please_select_one_of_this_list">Please select one of this list:</string>
+    <!-- ______________________________________________________________________________________________________________ -->
+    <string name="proj_assign_select">Please select one of this list:</string>
+    <!-- ______________________________________________________________________________________________________________ -->
+    <string name="please_select_the_performed_projects">Please select the performed projects:</string>
+    <string name="save_projects">Save</string>
+    <string name="load_projects">Load</string>
+    <string name="add_projects">Add</string>
+    <string name="delete_projects">Delete</string>
+    <string name="enter_project_name">Enter project name:</string>
+    <string name="hint_project">Enter project</string>
+    <!-- ______________________________________________________________________________________________________________ -->
+    <string name="please_select_the_performed_assignments">Please select the performed assignments:</string>
+    <string name="save_assignments">Save</string>
+    <string name="load_assignments">Load</string>
+    <string name="add_assignments">Add</string>
+    <string name="delete_assignments">Delete</string>
+    <string name="enter_assignment_name">Enter assignment name:</string>
+    <string name="hint_assignment">Enter assignment</string>
+
+    <!-- ______________________________________________________________________________________________________________ -->
+    <string name="languages">Programming Languages Learning:</string>
+    <string name="save_language">Save</string>
+    <string name="load_language">Load</string>
+    <string name="add_language">Add</string>
+    <string name="delete_language">Delete</string>
+    <string name="enter_language">Enter language:</string>
+    <string name="hint_language">Enter language</string>
+    <!-- ______________________________________________________________________________________________________________ -->
+
+</resources>
