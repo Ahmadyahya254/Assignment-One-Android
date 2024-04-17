@@ -1,7 +1,7 @@
 package com.example.assignmentoneandroid;
 
 import java.util.Objects;
-
+//Ahmad Atta
 public class Assignment {  // Pojo Class
     private String name;
 
